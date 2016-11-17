@@ -1,0 +1,11 @@
+translating,Idet perevod,Traduction en cours
+is,yavlyayetsya,est
+easy,legko,simple
+as,v vide,comme
+pie,pirog,tarte
+see,videt',voir
+even,dazhe,pair
+I,ya,je
+could,mog,pourrait
+do,dalet',faire
+it,eto,il

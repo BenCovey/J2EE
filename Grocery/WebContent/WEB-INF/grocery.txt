@@ -1,0 +1,9 @@
+rice:1.7
+sugar:1.8
+lentils:0.99
+orange:1.77
+apple:1.99
+banana:0.77
+peach:2.34
+flour:1.45
+watermelon:1.2

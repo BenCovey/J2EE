@@ -89,9 +89,6 @@ public class translate extends HttpServlet {
 				unfound = unfound + " " + word2;
 			}
 		}//end for
-		request.setAttribute("phrase", phrase);
-		request.setAttribute("translated", translated);
-		request.setAttribute("lang", lang);
 		response.sendRedirect( "index.jsp?translated=" + translated + "&unfound=" + unfound);
 		
 		//response.getWriter().append(phrase + " translates to " + translated + " in " + lang);

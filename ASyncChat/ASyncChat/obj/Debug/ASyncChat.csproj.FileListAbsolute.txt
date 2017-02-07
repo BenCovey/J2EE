@@ -1,0 +1,16 @@
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ASyncChat.XML
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.csprojResolveAssemblyReference.cache
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.Form1.resources
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.Properties.Resources.resources
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.csproj.GenerateResource.Cache
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ASyncChat.exe.config
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ASyncChat.exe
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ASyncChat.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ChatLib.dll
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\Logging.dll
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ChatLib.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\ChatLib.xml
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\Logging.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\bin\Debug\Logging.xml
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.exe
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ASyncChat\obj\Debug\ASyncChat.pdb

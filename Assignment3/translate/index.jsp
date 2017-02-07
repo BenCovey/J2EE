@@ -4,22 +4,45 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <title>Translator</title>
 </head>
 <body>
-	<h1>Translate from English to Russian or French</h1>
-	<h3>Only words available for translating are as follows:</h3>
-	<h3>translating, is, easy, as, pie, see, even, I, could, do, it</h3>
-	<form method = "GET" action = "translate">
-		<label>Enter a phrase to be translated</label><br/>
-		<input type = "text" value = "" id = "phrase" name = "phrase"/><br/>
-		<label>Translate to:</label><br/>
-		<select name = "lang">
-			<option value = "French">French</option>
-			<option value = "Russian">Russian</option>
-		</select><br/>
-		<input type = "submit" name = "submit" value = "Translate"/>
-	</form>
+	<div class="text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10">
+					<h1>Translate from English to Russian or French</h1>
+					
+					<h3>Only words available for translating are as follows:</h3>
+					<h3>translating, is, easy, as, pie, see, even, I, could, do, it</h3>
+					<div class="col-sm-12 ">
+						<div class="form-group">
+							<form method = "GET" action = "translate">
+								Enter a phrase to be translated<br/>
+								<input type = "text" value = "" id = "phrase" name = "phrase"/><br/>
+								Translate to 
+								<select name = "lang">
+									<option value = "French">French</option>
+									<option value = "Russian">Russian</option>
+								</select><br/>
+								<input type = "submit" name = "submit" value = "Translate"/>
+							</form>
+							<hr>
+							<form method = "GET" action = "list">
+								<label>Choose a Language to show translations for</label>
+								<select name = "lang">
+									<option value = "French">French</option>
+									<option value = "Russian">Russian</option>
+								</select><br/>
+								<input type = "submit" name = "submit" value = "Show Translations"/>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<%
     String translated = request.getParameter( "translated" );
 	String unfound = request.getParameter("unfound");

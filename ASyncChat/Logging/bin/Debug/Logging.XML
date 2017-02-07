@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Logging</name>
+    </assembly>
+    <members>
+        <member name="T:LogLib.Logging">
+            <summary>
+            Logging Class
+            </summary>
+        </member>
+        <member name="M:LogLib.Logging.WriteFile(System.String,System.String)">
+            <summary>
+            Write file, writing to log files
+            </summary>
+            <param name="inputFile"></param>
+            <param name="Data"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ChatLib\bin\Debug\ChatLib.XML
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\ASyncChat\ChatLib\obj\Debug\ChatLib.pdb
